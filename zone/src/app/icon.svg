@@ -1,7 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" id="ui">
-  <g fill="#fff" transform="translate(4.5 -1033.362)">
-    <circle cx="37.045" cy="28.409" r="12.5" fill="#50b748" fill-rule="evenodd" transform="translate(-29.045 1017.453)"></circle>
-    <path fill="#10a711" d="M14.668 24.797a12.5 12.5 0 0 0 .314-.047 12.5 12.5 0 0 0 1.211-.309 12.5 12.5 0 0 0 1.174-.427 12.5 12.5 0 0 0 1.125-.543 12.5 12.5 0 0 0 1.067-.655 12.5 12.5 0 0 0 .994-.755 12.5 12.5 0 0 0 .914-.852 12.5 12.5 0 0 0 .824-.94 12.5 12.5 0 0 0 .727-1.015 12.5 12.5 0 0 0 .623-1.084 12.5 12.5 0 0 0 .51-1.14 12.5 12.5 0 0 0 .394-1.186 12.5 12.5 0 0 0 .207-.924l-5.777-5.777-.942-.342-.435 1.201H12.27L8.256 5.988H6.027v.998l2.229 2.229 1.61 4.933-1.048 2.104a.5.5 0 0 0 .448.723l1.015 1.015c-.005 0-.01-.004-.015-.004-.547 0-1 .454-1 1 0 .274.113.524.295.705l5.107 5.106z" color="#000" font-family="sans-serif" font-weight="400" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-4.5 1033.362)"></path>
-    <path d="M.998 1.002V2H2.5l2.336 7.162-1.047 2.104a.5.5 0 0 0 .447.722h8v-1H5.045l.486-.976 6.295-.014 2.12-5.842-.942-.342-.436 1.202H4.535L3.227 1.002H.998zm3.863 5.014h7.346L11.85 7H5.182l-.32-.984ZM5.508 8h5.98l-.363 1-5.287.012L5.508 8Zm-.272 5c-.546 0-1 .454-1 1s.454 1 1 1c.547 0 1-.454 1-1s-.453-1-1-1zm6 0c-.546 0-1 .454-1 1s.454 1 1 1c.547 0 1-.454 1-1s-.453-1-1-1z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(.528 1038.348)"></path>
-  </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512.016 512.016" xml:space="preserve">
+<polygon points="145.544,151.36 105.184,31.92 0.68,31.92 0.68,0 128.096,0 175.784,141.136 "/>
+<polygon style="fill:#FFD67F;" points="68.128,124.56 511.336,124.56 426.856,361.584 141.936,361.584 "/>
+<circle cx="377.128" cy="450.56" r="61.456"/>
+<circle cx="191.752" cy="450.56" r="61.456"/>
+<polygon style="fill:#FF583E;" points="325.28,52.496 451.744,180.664 325.28,308.816 203.936,308.816 330.608,180.664 
+	203.936,52.496 "/>
 </svg>
